@@ -13,3 +13,5 @@ def test_2():
 def test_3():
 
   print("Testing the new branch")
+
+  return None
